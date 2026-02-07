@@ -1,2 +1,2 @@
 # prime-demo
-This is a Demo Git &amp; Github Class
+This is a Demo Git &amp; Github Class.
